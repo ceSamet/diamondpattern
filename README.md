@@ -12,6 +12,3 @@ For each cell, the program calculates:
 
 Based on these calculations, the program decides whether to print a number or a space, and whether the current position is in the top or bottom half of the diamond.
 
-## Example
-
-For an input of `n = 3`, the output will be:
